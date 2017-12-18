@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registrar</string>
+    <string name="error_message_name">Ingresa tu nombre completo</string>
+    <string name="error_message_email">Ingresa un correo válido</string>
+    <string name="error_message_age">Ingresa tu edad</string>
+    <string name="error_message_password">Ingresa tu contraseña</string>
+    <string name="success_message">Registro exitoso</string>
+    <string name="text_not_member">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="text_already_member">¿Ya eres miembro? Entra</string>
+    <string name="error_email_exists">Ya existe este correo</string>
+    <string name="error_password_match">No coinciden las contraseñas</string>
+    <string name="error_valid_email_password">Correo o contraseña inválidos</string>
+    <string name="action_settings">Opciones</string>
+    <string name="text_hello">Bienvenido,</string>
+    <string name="text_title">Biblioteca LDP</string>
+</resources>
